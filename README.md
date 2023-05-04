@@ -2,7 +2,7 @@
 
 School Management System project written in C++. It provides basic functionality to manage the information of students.
 
-![Project Banner](https://i.ibb.co/ggJrwnC/Screenshot-2023-05-04-104619.png "School")
+![Project Banner](banner.png "School")
 
 ## Getting Started
 
