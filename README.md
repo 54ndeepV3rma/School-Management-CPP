@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 This project requires a C++ compiler. You can install the GNU Compiler Collection (GCC) on Linux using the following command:
 
-On Windows, you can download [MinGW](http://www.mingw.org/) or [Visual Studio](https://visualstudio.microsoft.com/downloads/).
+On Windows, you can download [MinGW](https://sourceforge.net/projects/mingw/) or [Visual Studio](https://visualstudio.microsoft.com/downloads/).
 
 # Working
 Complete File handling is used in the code for storing, updating and fetching the data.
@@ -22,7 +22,7 @@ It was a challenging task when it comes to deal with data without any DBMS
 
 To install the project, simply clone the repository:
 ```
-git clone https://github.com/your_username/school-management-system.git
+git clone https://github.com/54ndeepV3rma/School-Management-CPP.git
 ```
 Open the cloned repository in command line.
 
