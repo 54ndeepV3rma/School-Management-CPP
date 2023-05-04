@@ -1,6 +1,8 @@
 # School Management System in C++
 
-School Management System project written in C++. It provides basic functionality to manage the information of students, teachers, and courses.
+School Management System project written in C++. It provides basic functionality to manage the information of students.
+
+![Project Banner](https://i.ibb.co/ggJrwnC/Screenshot-2023-05-04-104619.png "School")
 
 ## Getting Started
 
@@ -11,6 +13,10 @@ These instructions will get you a copy of the project up and running on your loc
 This project requires a C++ compiler. You can install the GNU Compiler Collection (GCC) on Linux using the following command:
 
 On Windows, you can download [MinGW](http://www.mingw.org/) or [Visual Studio](https://visualstudio.microsoft.com/downloads/).
+
+# Working
+Complete File handling is used in the code for storing, updating and fetching the data.
+It was a challenging task when it comes to deal with data without any DBMS
 
 ### Installing
 
